@@ -1,0 +1,31 @@
+{
+    "tasks": {
+        "1525": {
+            "id": 1525,
+            "name": "Testing services actively",
+            "completed": false
+        },
+        "15": {
+            "id": 15,
+            "name": "Testing services actively",
+            "completed": false
+        },
+        "12": {
+            "id": 12,
+            "name": "Testing services actively",
+            "completed": false
+        },
+        "152": {
+            "id": 152,
+            "name": "Testing services actively",
+            "completed": false
+        }
+    },
+    "users": {
+        "1": {
+            "id": 1,
+            "username": "Kambang Sinclaire",
+            "password": "12345678"
+        }
+    }
+}
